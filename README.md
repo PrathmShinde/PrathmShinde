@@ -6,6 +6,7 @@
 - 💬 Ask me about **Angular, ExpressJS, NodeJS, MongoDB, JavaScript**
 
 - 📫 How to reach me **prathmshinde12@gmail.com**
+- 📫 Call me on **+91 8999016261**
 
 <h2 align="left">I code with</h2>
 
@@ -24,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="aws logo"  />
 </div>
 
