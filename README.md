@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Shinde</h1>
-<h3 align="center">A passionate frontend (MEAN) developer from India</h3>
+<h3 align="center">A passionate frontend (MEAN stack) developer from India</h3>
 
 - 🌱 I’m currently learning **MEAN stack development**
 
